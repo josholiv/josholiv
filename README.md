@@ -5,7 +5,8 @@ researching relationships between
 - brain function,
 - brain structure, and
 - memory
-\and how these relationships evolve across the human lifespan.  
+
+and how these relationships evolve across the human lifespan.  
 
 ## 🌱 I’m currently learning 
 - web development
@@ -17,7 +18,8 @@ on projects related to
 - aging,
 - fMRI analysis, and
 - cognitive neuroscience.
-\Especially projects that integrate R, MATLAB, or Python! 
+
+Especially projects that integrate R, MATLAB, or Python! 
 
 ## 📫 How to reach me: 
 Check out my personal portfolio site and blog at [josholivier.com](https://josholivier.com) or reach out via [LinkedIn](https://www.linkedin.com/in/joshua-olivier/) or [Bluesky](https://bsky.app/profile/josholivier.bsky.social).
