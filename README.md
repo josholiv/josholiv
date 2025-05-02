@@ -4,8 +4,8 @@
 researching relationships between 
 - brain function,
 - brain structure, and
-- memory/
-/
+- memory\
+\
  and how these relationships evolve across the human lifespan.  
 
 ## 🌱 I’m currently learning 
@@ -18,7 +18,7 @@ on projects related to
 - aging,
 - fMRI analysis, and
 - cognitive neuroscience.\
-/
+\
 Especially projects that integrate R, MATLAB, or Python! 
 
 ## 📫 How to reach me: 
