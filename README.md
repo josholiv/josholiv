@@ -4,7 +4,7 @@
 researching relationships between 
 - brain function,
 - brain structure, and
-- memory
+- memory,
 
 and how these relationships evolve across the human lifespan.  
 
