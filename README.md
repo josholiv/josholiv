@@ -10,7 +10,7 @@
 
 😄 Pronouns: he/him  
 
-⚡ Fun fact: I lived in northern Brazil 🇧🇷 for two years, where I fell in love with açaí, tacacá, tambaqui—and learned Portuguese! I also enjoy
+⚡ Fun fact: I lived in northern Brazil for two years, where I fell in love with açaí, tacacá, tambaqui—and learned Portuguese! I also enjoy
 - triathlons,
 - chess,
 - 3D printing,
