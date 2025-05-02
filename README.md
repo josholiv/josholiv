@@ -15,7 +15,7 @@
 - chess,
 - 3D printing,
 - yoyos, and
-- tereré 🧉. 
+- tereré 🧉!
 
 Thanks for stopping by!
 
