@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Josh (@josholiv)
 
 ## 👀 I’m interested in 
-how brain function, brain structure, and memory interact—and how these relationships evolve across the human lifespan.  
+how brain function, brain structure, and memory interact and how these relationships evolve across the human lifespan.  
 
 ## 🌱 I’m currently learning 
 - web development
