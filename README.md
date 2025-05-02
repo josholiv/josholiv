@@ -12,8 +12,8 @@ on projects related to
 - memory,
 - aging,
 - fMRI analysis, and
-- cognitive neuroscience,
-especially projects that integrate R, MATLAB, or Python.  
+- cognitive neuroscience.\
+Especially projects that integrate R, MATLAB, or Python! 
 
 ## 📫 How to reach me: 
 Check out my personal portfolio site and blog at [josholivier.com](https://josholivier.com) or reach out via [LinkedIn](https://www.linkedin.com/in/joshua-olivier/) or [Bluesky](https://bsky.app/profile/josholivier.bsky.social).
