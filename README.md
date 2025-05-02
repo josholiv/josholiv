@@ -10,7 +10,7 @@ and how these relationships evolve across the human lifespan.
 
 ## 🌱 I’m currently learning 
 - web development
-- Spanish
+- Spanish!
 
 ## 💞️ I’m looking to collaborate 
 on projects related to 
