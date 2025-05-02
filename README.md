@@ -1,7 +1,12 @@
 # 👋 Hi, I’m Josh (@josholiv)
 
 ## 👀 I’m interested in 
-how brain function, brain structure, and memory interact and how these relationships evolve across the human lifespan.  
+researching relationships between 
+- brain function,
+- brain structure, and
+- memory/
+/
+ and how these relationships evolve across the human lifespan.  
 
 ## 🌱 I’m currently learning 
 - web development
@@ -13,6 +18,7 @@ on projects related to
 - aging,
 - fMRI analysis, and
 - cognitive neuroscience.\
+/
 Especially projects that integrate R, MATLAB, or Python! 
 
 ## 📫 How to reach me: 
